@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 🎓 COMPUTER SCIENCE STUDENT <br>🔭 Working on web apps<br>🤝 I’m looking to collaborate on open-source <br>     projects and design systems<br>💬 Ask me about responsive architecture<br>      design handoffs, and user-centric solutions.<br>🌱 Learning Al integration<br>🚀 Bridging code and creativity<br><br><br>
 
 
